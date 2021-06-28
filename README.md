@@ -14,3 +14,5 @@ By **contrast**, in a fixed mindset, intelligence and talent are seen as fixed t
 
 ##### For more information please visit [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
+*Hello everyone, I am Mahmoud Hamdan and I am a  Mechanical Engineering , graduate  from Al- Balqa' Applied University I am glad to be one of the students here and I aspire to be a professional programmer*
+https://github.com/Mahmoud-M-Hamdan
