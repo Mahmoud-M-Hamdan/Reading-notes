@@ -10,6 +10,9 @@ Read-01.md |[Read-01.md](https://mahmoud-m-hamdan.github.io/Reading-notes/Read-0
 Read-02.md |[Read-02.md](https://mahmoud-m-hamdan.github.io/Reading-notes/Read-02)
 Read-03.md |[Read-03.md](https://mahmoud-m-hamdan.github.io/Reading-notes/Read-03)
 Read-04.md |[Read-04.md](https://mahmoud-m-hamdan.github.io/Reading-notes/Read-04)
+<<<<<<< HEAD
 Read-05.md |[Read-05.md](https://mahmoud-m-hamdan.github.io/Reading-notes/Read-05)
 Read-06.md |[Read-06.md](https://mahmoud-m-hamdan.github.io/Reading-notes/Read-06)
+=======
+>>>>>>> 3003eed8c12a3a956ff91c6029b754452625fc71
 Growth.md | [Growth.md](https://mahmoud-m-hamdan.github.io/Reading-notes/Growth)

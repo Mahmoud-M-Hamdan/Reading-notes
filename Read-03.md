@@ -43,6 +43,9 @@ These are *some* of the roughly 100 semantic elements available:
 `<summary>`
 
 `<time>`
+<<<<<<< HEAD
 
 
  
+=======
+>>>>>>> 3003eed8c12a3a956ff91c6029b754452625fc71
