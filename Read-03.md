@@ -44,5 +44,3 @@ These are *some* of the roughly 100 semantic elements available:
 
 `<time>`
 
-
- 
